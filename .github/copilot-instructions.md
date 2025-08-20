@@ -1,7 +1,6 @@
 
 # Coding
 
-- Write code that implements the app described in the scenario in [app-vision.md](../docs/app-vision.md).
 - Use Typescript.
 - Use React 19 with React Compiler enabled.
 - Use functional components.
